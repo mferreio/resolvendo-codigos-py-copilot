@@ -1,2 +1,1 @@
-# resolvendo-codigos-py-copilot
-Resolvendo Códigos em Python com Github Copilot
+# Resolvendo Códigos em Python com Github Copilot
